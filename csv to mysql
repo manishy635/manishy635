@@ -1,9 +1,0 @@
-
-truncate table tbl_senitel_invoice_master; LOAD DATA LOCAL INFILE 
-'C://invoicelist.csv' 
-INTO TABLE tbl_senitel_invoice_master COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' ESCAPED BY '"' LINES TERMINATED BY '\n' IGNORE 1 LINES;
-select count(*) as Result from tbl_senitel_invoice_master'
-
-
-
-csv to import data
