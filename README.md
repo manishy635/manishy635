@@ -1,6 +1,6 @@
 
 ### Hello World 👋
-I am a fullstack software engineer from india
+I am a fullstack software engineer from India, I am involved with Python, NextJS, ReactJS, JavaScript and Typesense.
 - 🔭 Working on multiple frontend and backend project using React and python
 - 🌱 Learning design patterns in depth
 <br>
