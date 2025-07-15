@@ -41,7 +41,7 @@ I am a fullstack software engineer from India, I am involved with Python, NextJS
 ## Databases
 
 <img align="left" alt="MySql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="Sqlite" alt="Atom"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="left" alt="Atom"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align="left" alt="BigData" src="https://img.shields.io/badge/Google%20Bigtable-669DF6.svg?style=for-the-badge&logo=Google-Bigtable&logoColor=white"/>
 <img align="left" alt="Spanner" src="https://img.shields.io/badge/Google%20Cloud%20Spanner-4285F4.svg?style=for-the-badge&logo=Google-Cloud-Spanner&logoColor=white"/>
 
